@@ -10,3 +10,6 @@ SCRIPTS php + Fichero SQL exportado(estructura BBDD)
 Base de datos tablas --> reserva , vuelos , clientes
 
 SCRIPTS --> portal.html alta.php disponibles.php comprobar.php error.html main.php salir.php reservar.php consultar.php anular.php baja.php
+
+Imagen --> esquema.png (esquema vista logica)
+https://github.com/zipyinthenet/RefuerzoPHP-reservas-aeropuerto-/blob/master/esquema.png
