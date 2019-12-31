@@ -13,3 +13,4 @@ SCRIPTS --> portal.html alta.php disponibles.php comprobar.php error.html main.p
 
 Imagen --> esquema.png (esquema vista logica)
 https://github.com/zipyinthenet/RefuerzoPHP-reservas-aeropuerto-/blob/master/esquema.png
+https://github.com/zipyinthenet/RefuerzoPHP-reservas-aeropuerto-/blob/master/esquema.png?raw=true
